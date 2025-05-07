@@ -1,0 +1,240 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    
+    background-color: #FFF8F0;
+    font-family: Inter;
+    line-height: 24px;
+    font-weight: 400;
+    color: #55206D;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: League Spartan;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #190D37;
+    position: relative;
+}
+
+h2 {
+    font-family: League Spartan;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+#bigtext {
+    width: 520px;
+    font-family: Poppins;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #331E6A;
+    margin: 30px 0 0 0;
+}
+
+#eandp {
+    margin-top: 29px;
+    display: flex;
+}
+#eandp img{
+    width: 20px;
+    height: 20px;
+    margin-bottom: -4px;
+}
+
+#e {
+    width: 50%;
+    
+    margin-left: 160px;
+}
+
+#p {
+    width: 50%;
+
+}
+
+#hi-name {
+    margin-top: 49px;
+}
+
+#hero-sec {
+    display: flex;
+    max-width: 1060px;
+    margin: 0 auto 48px auto;
+
+}
+
+#hero-txt {
+    padding: 32px 20px 32px 20px;
+    width: 50%;
+}
+
+#hero-img {
+    width: 50%;
+}
+
+#im {
+    width: 710px;
+    height: 600px;
+}
+
+#bt {
+    margin: 20px 0 0 0;
+}
+
+
+#b-col {
+    width: 138px;
+    height: 44px;
+    color: #FFFFFF;
+    background-color: #2F2F2F;
+}
+
+
+#ovr {
+    font-family: Poppins;
+    font-size: 12px;
+    color: #2858FF;
+    text-align: center;
+    margin: 0 auto 8px auto;
+}
+
+
+#sec-head {
+    font-family: League Spartan;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+    width: 700px;
+    margin: 0 auto;
+}
+
+#pri-text {
+    font-family: Poppins;
+    font-size: 18px;
+    text-align: center;
+    margin: 8px auto 48px auto;
+    width: 686px;
+    color: #190D37;
+}
+
+
+#pricing-boxes{
+    width: 1060px;
+    margin: 0 auto;
+    /* text-align: center; */
+    display: flex;
+}
+#pri-box{
+    width: 33.33%;
+    /* height: 350px; */
+    background-color: #FFFFFF;
+    margin:  0 20px 0 auto;
+    padding: 20px;
+}
+
+
+#pri-box-2{
+    width: 33.33%;
+    /* height: 350px; */
+    background-color: #FFD748;
+    margin:  0 20px 0 auto;
+    padding: 20px;
+}
+
+/* .pricing-card{
+    height: 405px;
+} */
+
+.ser-name{
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #2858FF;
+    margin-bottom: 8px;
+}
+.ser-pri{
+    margin-bottom: 8px;
+}
+.price{
+    font-family: Poppins;
+    font-size: 36px;
+    text-align: left;
+    color: #000000;
+}
+.pp{
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #8A8A8A;
+}
+
+
+.ser-des{
+    width: 250px;
+    font-family: Poppins;
+    font-size: 14px;
+    text-align: left;
+    color: #8B8B8B;
+    margin-bottom: 16px;
+}
+.pts{
+    margin-bottom: 8px;
+    font-family: Poppins;
+    font-size: 16px;
+    text-align: left;
+    color: #666666;
+}
+
+
+.ser-con{
+    margin-top: 16px;
+}
+
+.but{
+    /* background-color: #FFFFFF; */
+    width: 300px;
+    height: 44px;
+    border: solid black;
+}
+.but2{
+    width: 300px;
+    height: 44px;
+    border: solid black;
+    background-color: black;
+    color: white;
+}
+.but :hover{
+    background-color: blue
+}
+#FOOTER{
+    margin-top: 96px;
+    background-color: #000000;
+    max-width: 1440px;
+    margin: 48px auto 0;
+}
+#Footer-text{
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+}
+
+#yellow_line{
+    position: absolute;
+    margin-top: 140px;
+}
